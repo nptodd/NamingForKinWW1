@@ -1,10 +1,10 @@
-**Supplement to Todd, N., & Coulmont, B. (2021). Naming for Kin during World War I: Baby Names as Markers for War. _Journal of Interdisciplinary History_, 52(1), 55-67.**
+**Supplement to Todd, N., & Coulmont, B. (2021). Naming for Kin during World War I: Baby Names as Markers for War. _Journal of Interdisciplinary History_, 52(1), 55-67. [doi:10.1162/jinh_a_01663](https://doi.org/10.1162/jinh_a_01663)**
 
 # Naming for Kin during World War 1
 
 Paternal (father to son/daughter) and avuncular (uncle to nephew/niece) name transmission during WW1 using a large genealogy database.
 
-The analysis is based on crowdsourced genealogies from the [Geneanet](https://www.geneanet.org/) website. 
+The analysis is based on crowdsourced genealogies from the [Geneanet](https://www.geneanet.org/) website.
 
 ## Deduplication process
 
